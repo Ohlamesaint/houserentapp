@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/houserentapp/static/css/main.8d054b4c.chunk.css",
+    "main.js": "/houserentapp/static/js/main.c0bf2a48.chunk.js",
+    "main.js.map": "/houserentapp/static/js/main.c0bf2a48.chunk.js.map",
+    "runtime-main.js": "/houserentapp/static/js/runtime-main.551fa8b3.js",
+    "runtime-main.js.map": "/houserentapp/static/js/runtime-main.551fa8b3.js.map",
+    "static/js/2.294d1381.chunk.js": "/houserentapp/static/js/2.294d1381.chunk.js",
+    "static/js/2.294d1381.chunk.js.map": "/houserentapp/static/js/2.294d1381.chunk.js.map",
+    "static/js/3.5f68544e.chunk.js": "/houserentapp/static/js/3.5f68544e.chunk.js",
+    "static/js/3.5f68544e.chunk.js.map": "/houserentapp/static/js/3.5f68544e.chunk.js.map",
+    "index.html": "/houserentapp/index.html",
+    "static/css/main.8d054b4c.chunk.css.map": "/houserentapp/static/css/main.8d054b4c.chunk.css.map",
+    "static/js/2.294d1381.chunk.js.LICENSE.txt": "/houserentapp/static/js/2.294d1381.chunk.js.LICENSE.txt",
+    "static/media/Title.css": "/houserentapp/static/media/house2.bbff31f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.551fa8b3.js",
+    "static/js/2.294d1381.chunk.js",
+    "static/css/main.8d054b4c.chunk.css",
+    "static/js/main.c0bf2a48.chunk.js"
+  ]
+}
