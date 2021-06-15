@@ -1,0 +1,18 @@
+.homepage-bgimage {
+    background: url("../img/house2.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+    color: white;
+    font-weight: bold;
+    font-size: 100px;
+    font-family: Microsoft JhengHei;
+    text-shadow: black 0.1em 0.1em 0.2em
+}

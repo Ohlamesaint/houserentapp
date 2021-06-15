@@ -1,0 +1,12 @@
+.bg{
+    background-color: silver;
+}
+.nav-tabs > button {
+    float:none;
+    display:inline-block;
+    zoom:1;
+    color: grey
+}
+.nav-tabs {
+    text-align:center;
+}
